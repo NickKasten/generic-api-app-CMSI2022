@@ -1,6 +1,6 @@
 # generic-api-app-CMSI2022
 
-This solo project was the 2nd of 4 completed for the LMU CMSI2022: Mobile App Development Class.
+This solo project was the 2nd of 4 completed for the LMU CMSI2022: Mobile App Development Class in Spring 2023.
 
 The following is from my original project description:
 
